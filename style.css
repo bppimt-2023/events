@@ -1,0 +1,32 @@
+*{
+    padding:0;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: blue;
+    font-family:'Roboto', sans-serif ;
+}
+h2{
+    font-family:'Lato', sans-serif ;
+    text-align: center;
+    color: blue;
+    font-size: 30px;
+}
+.btm{
+    
+    padding: 7px;
+    font-size: 16px;
+    border: 2px solid black;
+    border-radius: 2px;
+    font-family: 'Lato', sans-serif;
+}
+.btm:hover{
+    background-color: blue;
+    cursor: pointer;
+    color: white;
+}
+body{
+    text-align: center;
+}
